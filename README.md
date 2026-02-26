@@ -2,7 +2,7 @@
 
 Solving 888 Data Structures & Algorithms problems in JavaScript.
 
-## Getting Started
+## Getting Started!
 
 ### Prerequisites
 
