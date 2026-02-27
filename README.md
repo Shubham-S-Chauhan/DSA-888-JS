@@ -9,7 +9,7 @@ Solving 888 Data Structures & Algorithms problems in JavaScript.
 - [Node.js](https://nodejs.org/) v18 or higher
 - npm (comes with Node.js)
 
-### Setup
+### Setup Initial
 
 ```bash
 # Install dependencies
